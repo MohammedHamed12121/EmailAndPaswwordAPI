@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9gZyI1kc3gv/mVXd7Omd1axrE0CUZ5Yhz0NAPjVXldI=",
+  "Source": "VerifyEmailAndPassword1",
+  "BasePath": "_content/VerifyEmailAndPassword1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
